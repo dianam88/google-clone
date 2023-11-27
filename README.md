@@ -12,6 +12,7 @@ En este proyecto utilizamos el editor de código *Visual Studio Code* y utilizam
   <li>Logo e Input de búsqueda </li>
   <li>Menú de footer</li>
 </ol>
-### Vista Previa
+
+#### Vista Previa
 
 ![image](https://github.com/dianam88/google-clone/assets/151890717/3b3d4431-e833-4ed6-9378-cad015a821d5)
